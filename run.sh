@@ -2,3 +2,5 @@
 # tiny helper
 print('ok')
 func main() { println("hi") }
+
+# f454ac
